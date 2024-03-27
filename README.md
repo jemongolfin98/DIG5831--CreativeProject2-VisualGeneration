@@ -20,7 +20,7 @@ ___
 
 ### Video Presentation
 
-![Video Presentation](/DIG5831--CreativeProject2-VisualGeneration/docs/assets/videos/video-presentation.mp4)
+[Video Presentation](/DIG5831--CreativeProject2-VisualGeneration/docs/assets/videos/video-presentation.mp4)
 
 ___
 ___
