@@ -29,7 +29,7 @@ ___
 
 #### Image 01: ???
 
-[Image]
+![Left Hallway](/DIG5831--CreativeProject2-VisualGeneration/docs/assets/generated-images/LeftHallway.png)
 
 Prompt: ???
 
