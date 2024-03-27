@@ -13,7 +13,7 @@ ___
 
 ### Methodology Statement
 
-???
+I wanted to generate images that were inspired by 2 of my favorite and most recent interests. For most of my life, I have been a fan of the work of Van Gogh. I have constantly used his work as reference for most of my AI-generation assignments. My favorite piece by Van Gogh is "The Starry Night" and I wanted to utilize its nighttime theming for this project. Another big, but recent, inspiration I have had comes from the "Dune" series by Frank Herbert. I have read and been a fan of the dune books for some time and have recently watched Dune (Part One) and Dune (Part Two) in theaters and my interest in science-fiction has definitely been reignited. So, I wanted to create images in the realm of science-fiction but in the style of Van Gogh's iconic painting. I looked into the image generation tools recommended on the assignment page, but from experience, I know that the best tool to use would be Adobe Firefly, as it has many options and tools for many types of generation.
 
 ___
 ___
