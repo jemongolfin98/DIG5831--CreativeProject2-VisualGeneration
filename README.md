@@ -20,7 +20,7 @@ ___
 
 ### Video Presentation
 
-[Video]
+![Video Presentation](/DIG5831--CreativeProject2-VisualGeneration/docs/assets/videos/video-presentation.mp4)
 
 ___
 ___
@@ -55,7 +55,7 @@ Configurations: None
 
 ___
 
-#### Image 03: Crystal Lake of the New KIngdom
+#### Image 03: Crystal Lake of the New Kingdom
 
 ![Crystal Lake of the New Kingdom](/DIG5831--CreativeProject2-VisualGeneration/docs/assets/generated-images/picture03.jpg)
 
@@ -93,21 +93,21 @@ Model: Adobe Firefly
 
 Reference Image: "The Starry Night" by Van Gogh
 
-Configurations: Effects (Line Drawing, Newspaper Collage); Color & Tone (Monochromatic); Lighting (Low Lighting); Camera Angle ()
+Configurations: Effects (Line Drawing, Newspaper Collage); Color & Tone (Monochromatic); Lighting (Low Lighting); Camera Angle (None)
 
 ___
 
-#### Image 06: The Shipyard
+#### Image 06: The Ship Port
 
 ![The Shipyard](/DIG5831--CreativeProject2-VisualGeneration/docs/assets/generated-images/picture06.jpg)
 
-Prompt: Generate a 3-dimensional futuristic shipport of spaceships and citizens trading, in the style of Van Gogh's "The Starry Night"
+Prompt: Generate a 3-dimensional futuristic ship port of spaceships and citizens trading, in the style of Van Gogh's "The Starry Night"
 
 Model: Adobe Firefly
 
 Reference Image: "The Starry Night" by Van Gogh
 
-Configurations: Effects (Hyper Realistic); Color & Tone (Pastel Color); Lighting (Harsh Light); Camera Angle ()
+Configurations: Effects (Hyper Realistic); Color & Tone (Pastel Color); Lighting (Harsh Light); Camera Angle (None)
 
 ___
 
@@ -121,7 +121,7 @@ Model: Adobe Firefly
 
 Reference Image: "The Starry Night" by Van Gogh
 
-Configurations: Effects (Low Poly, Vector Look); Color & Tone (); Lighting (Studio Light); Camera Angle (Knolling)
+Configurations: Effects (Low Poly, Vector Look); Color & Tone (None); Lighting (Studio Light); Camera Angle (Knolling)
 
 ___
 
@@ -149,7 +149,7 @@ Model: Adobe Firefly
 
 Reference Image: "The Starry Night" by Van Gogh
 
-Configurations: Effects (Cartoon); Color & Tone (Black & White); Lighting (); Camera Angle ()
+Configurations: Effects (Cartoon); Color & Tone (Black & White); Lighting (None); Camera Angle (None)
 
 ___
 
@@ -163,6 +163,6 @@ Model: Adobe Firefly
 
 Reference Image: "The Starry Night" by Van Gogh
 
-Configurations: Effects (Comic Book); Color & Tone (Vibrant Colors); Lighting (); Camera Angle ()
+Configurations: Effects (Comic Book); Color & Tone (Vibrant Colors); Lighting (None); Camera Angle (None)
 
 ___
