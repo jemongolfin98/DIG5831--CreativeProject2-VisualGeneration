@@ -6,7 +6,7 @@ ___
 
 ### Artistic Statement
 
-???
+For this project, I wanted to stay with a science-fiction theme inspired by the "Dune" series by Frank Herbert, but in a style inspired by "The Starry Night" by Van Gogh. I wanted to use the images to create a science-fiction story of a new liberated kingdom on a unique planet. I wanted the symbol of liberation to be the iconic night sky from the painting with the rolling stars and effects. To seem as if the universe of this story was located within the waves of the starry night. As for the kingdom and the environments within, I wanted to keep to a science-fiction theme of keeping thing futuristic with shiny colors of white and tall pointed structures and modern technologies, such as spaceships and high-speed trains. I wanted each image to be different from the last and be focused on a new individual aspect of the world. Such as the mountainside, the desert, ship ports, and the towns themselves. I wanted to focus on the citizens of the kingdom but there were some restrictions with some of the prompts I was trying to use. I tried to use unique styles and lighting effects depending on the situation being depicted and used different artistic techniques to make each image different. I feel overall it helped to present the unique world of this futuristic kingdom within the seas of the starry night.
 
 ___
 ___
