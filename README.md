@@ -22,6 +22,9 @@ ___
 
 [Video Presentation](/DIG5831--CreativeProject2-VisualGeneration/docs/assets/videos/video-presentation.mp4)
 
+<video src="/DIG5831--CreativeProject2-VisualGeneration/docs/assets/videos/video-presentation.mp4" controls="controls" style="max-width: 730px">
+</video>
+
 ___
 ___
 
